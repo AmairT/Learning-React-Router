@@ -8,7 +8,7 @@ function App() {
     return (
     <>
       <div id='container'>
-        <h1>Blue or Red!</h1>
+        <h1>Select Your Color!</h1>
         <div id='navbar'>
           <Link to='/home'>Home</Link>
           <Link to='/blue'>Blue</Link>
