@@ -26,6 +26,7 @@ body > div {
 
 #main-section {
   flex-grow: 1;
+  background-image: url('https://img.freepik.com/free-vector/colorful-paint-splashes_1035-7496.jpg');
 }
 
 #main-section > div {
@@ -46,6 +47,6 @@ body > div {
 }
 
 .home {
-  background-color: darkgray;
-  color: white;
+  background-image: url('https://img.freepik.com/free-vector/colorful-paint-splashes_1035-7496.jpg');
+  color: greenyellow;
 }
