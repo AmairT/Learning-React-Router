@@ -38,12 +38,12 @@ body > div {
 
 .red {
   background-image: url('https://media.istockphoto.com/id/1306345752/vector/red-ink-splatter-on-white-background-formed-by-individual-particles.jpg?s=612x612&w=0&k=20&c=u-mlO5KhWBSi5TimTmuLVH6Kt5cd2Ij650YxCDx85aE=');
-  color: white;
+  color: crimson;
 }
 
 .blue {
   background-image: url('https://media.istockphoto.com/id/1204518452/vector/blue-paint-splash.jpg?s=612x612&w=0&k=20&c=uVc9osCFLtna-iPnDNy1Nu7Rb8SmGA98HyAKs9TbQm4=');
-  color: white;
+  color: blue;
 }
 
 .home {
